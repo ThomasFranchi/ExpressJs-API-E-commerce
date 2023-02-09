@@ -1,0 +1,21 @@
+{
+  "name": "atelier-6-api-ecommerce",
+  "version": "1.0.0",
+  "description": "développer une API web pour un système de e-commerce.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "routes",
+    "verbs",
+    "http",
+    "api",
+    "test"
+  ],
+  "author": "Thomas Franchi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

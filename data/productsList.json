@@ -1,0 +1,17 @@
+[
+    {"nom": "Ordinateur Portable", "prix": 800},
+    {"nom": "Clavier", "prix": 30},
+    {"nom": "Souris", "prix": 15},
+    {"nom": "Écran Moniteur", "prix": 200},
+    {"nom": "Disque Dur Externe", "prix": 70},
+    {"nom": "Imprimante", "prix": 80},
+    {"nom": "Câble HDMI", "prix": 10},
+    {"nom": "Carte Graphique", "prix": 300},
+    {"nom": "Carte Mère", "prix": 150},
+    {"nom": "Boîtier PC", "prix": 50},
+    {"nom": "Lecteur DVD", "prix": 25},
+    {"nom": "Carte Wifi", "prix": 40},
+    {"nom": "Carte Son", "prix": 40},
+    {"nom": "Carte réseau", "prix": 40},
+    {"nom": "Alimentation", "prix": 50}
+]
